@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Deli//Break</string>
+    <string name="app_desc">Learn how to make\namazing cakes</string>
+    <string name="app_desc_q">Have you already tried the classic\ndouble chocolate cake?</string>
+    <string name="courses_title">Pastry courses</string>
+    <string name="courses_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nProin fringilla tristique ante.</string>
+    <string name="courses_link">www.delibreak.com</string>
+</resources>
